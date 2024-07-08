@@ -1,0 +1,1 @@
+{"version":3,"file":"css/style.css","mappings":"AACA,gkNACA,4tHACA,w+CAFA,8CAEA,CAFA,8DAEA,CAFA,mEAEA,CAFA,yCAEA,CAFA,sBAEA,CAFA,gEAEA,CAFA,gCAEA,EAFA,6DAEA,CAFA,gDAEA,E","sources":["webpack://myportfolio/./src/scss/style.scss"],"sourcesContent":["/* src/style.css */\n@tailwind base;\n@tailwind components;\n@tailwind utilities;\n"],"names":[],"sourceRoot":""}
